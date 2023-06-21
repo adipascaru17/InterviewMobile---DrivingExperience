@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b58657655114e754c8233a96b9281d89
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: house_21_r
+    100004: house_22_r
+    100006: house_23_r
+    100008: house_24_r
+    100010: house_25_r
+    100012: house_26_r
+    100014: house_27_r
+    100016: house_28_r
+    100018: house_29_r
+    100020: house_30_m
+    100022: house_31_n
+    100024: house_32_o
+    400000: //RootNode
+    400002: house_21_r
+    400004: house_22_r
+    400006: house_23_r
+    400008: house_24_r
+    400010: house_25_r
+    400012: house_26_r
+    400014: house_27_r
+    400016: house_28_r
+    400018: house_29_r
+    400020: house_30_m
+    400022: house_31_n
+    400024: house_32_o
+    2300000: house_21_r
+    2300002: house_22_r
+    2300004: house_23_r
+    2300006: house_24_r
+    2300008: house_25_r
+    2300010: house_26_r
+    2300012: house_27_r
+    2300014: house_28_r
+    2300016: house_29_r
+    2300018: house_30_m
+    2300020: house_31_n
+    2300022: house_32_o
+    3300000: house_21_r
+    3300002: house_22_r
+    3300004: house_23_r
+    3300006: house_24_r
+    3300008: house_25_r
+    3300010: house_26_r
+    3300012: house_27_r
+    3300014: house_28_r
+    3300016: house_29_r
+    3300018: house_30_m
+    3300020: house_31_n
+    3300022: house_32_o
+    4300000: house_21_r
+    4300002: house_22_r
+    4300004: house_23_r
+    4300006: house_24_r
+    4300008: house_25_r
+    4300010: house_26_r
+    4300012: house_27_r
+    4300014: house_28_r
+    4300016: house_29_r
+    4300018: house_30_m
+    4300020: house_31_n
+    4300022: house_32_o
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack12
+    second: {fileID: 2100000, guid: ff5bf678bbad8b343b60e06017822f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atlas1
+    second: {fileID: 2100000, guid: d281edd615d60a141a75fc9329fa07e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atlas2
+    second: {fileID: 2100000, guid: 304bf62f7c7bed4429689b6e47685cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atlas3
+    second: {fileID: 2100000, guid: f1289183ea9645d43a9ee48cc9bc66dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atlas4
+    second: {fileID: 2100000, guid: 5f2d65d705840cd4b967f70fb9743d58, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["house_24_r","house_32_o","house_31_n","house_23_r","house_21_r","house_28_r","house_29_r","house_30_m","house_22_r"],"padding":[4,5,4,10,7,3,8,5,6],"unwrapper":[0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

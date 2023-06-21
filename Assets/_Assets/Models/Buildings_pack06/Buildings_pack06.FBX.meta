@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 5b324155361f8934996cdda9805aa24f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apartments1
+    100002: apartments2
+    100004: apartments3
+    100006: //RootNode
+    100008: greenhouse
+    100010: house1
+    100012: house10
+    100014: house11
+    100016: house12
+    100018: house13
+    100020: house14
+    100022: house15
+    100024: house2
+    100026: house3
+    100028: house4
+    100030: house5
+    100032: house6
+    100034: house7
+    100036: house8
+    100038: house9
+    100040: retirementHome1
+    100042: retirementHome2
+    100044: retirementHome3
+    100046: storage1
+    100048: store1
+    100050: store2
+    400000: apartments1
+    400002: apartments2
+    400004: apartments3
+    400006: //RootNode
+    400008: greenhouse
+    400010: house1
+    400012: house10
+    400014: house11
+    400016: house12
+    400018: house13
+    400020: house14
+    400022: house15
+    400024: house2
+    400026: house3
+    400028: house4
+    400030: house5
+    400032: house6
+    400034: house7
+    400036: house8
+    400038: house9
+    400040: retirementHome1
+    400042: retirementHome2
+    400044: retirementHome3
+    400046: storage1
+    400048: store1
+    400050: store2
+    2300000: apartments1
+    2300002: apartments2
+    2300004: apartments3
+    2300006: greenhouse
+    2300008: house1
+    2300010: house10
+    2300012: house11
+    2300014: house12
+    2300016: house13
+    2300018: house14
+    2300020: house15
+    2300022: house2
+    2300024: house3
+    2300026: house4
+    2300028: house5
+    2300030: house6
+    2300032: house7
+    2300034: house8
+    2300036: house9
+    2300038: retirementHome1
+    2300040: retirementHome2
+    2300042: retirementHome3
+    2300044: storage1
+    2300046: store1
+    2300048: store2
+    3300000: apartments1
+    3300002: apartments2
+    3300004: apartments3
+    3300006: greenhouse
+    3300008: house1
+    3300010: house10
+    3300012: house11
+    3300014: house12
+    3300016: house13
+    3300018: house14
+    3300020: house15
+    3300022: house2
+    3300024: house3
+    3300026: house4
+    3300028: house5
+    3300030: house6
+    3300032: house7
+    3300034: house8
+    3300036: house9
+    3300038: retirementHome1
+    3300040: retirementHome2
+    3300042: retirementHome3
+    3300044: storage1
+    3300046: store1
+    3300048: store2
+    4300000: apartments1
+    4300002: apartments2
+    4300004: apartments3
+    4300006: greenhouse
+    4300008: house1
+    4300010: house2
+    4300012: house3
+    4300014: house4
+    4300016: house5
+    4300018: house6
+    4300020: house7
+    4300022: house8
+    4300024: house9
+    4300026: house10
+    4300028: house11
+    4300030: house12
+    4300032: house13
+    4300034: house14
+    4300036: retirementHome1
+    4300038: retirementHome2
+    4300040: retirementHome3
+    4300042: storage1
+    4300044: store1
+    4300046: store2
+    4300048: house15
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack22
+    second: {fileID: 2100000, guid: 6181fc991c3e13846bb6dddc684e87b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack23
+    second: {fileID: 2100000, guid: 1c5e1e1e09624314aba492329caa2c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack24
+    second: {fileID: 2100000, guid: 81329af89bb380546b76ec795575cca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack25
+    second: {fileID: 2100000, guid: 07942652f4b060748ae39fae38ddffca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack26
+    second: {fileID: 2100000, guid: 6fbc52d8678dcfc418da57b34637e3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack27
+    second: {fileID: 2100000, guid: 02e2270dc16f2d44e9653c9b3ff7a6a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atlas_buildings_pack28
+    second: {fileID: 2100000, guid: 64da933728b606340bd98fd863b0f22c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["apartments2","retirementHome2","retirementHome1","apartments1","store2","apartments3","store1"],"padding":[6,6,7,7,6,7,5],"unwrapper":[0,0,0,0,0,0,0]}'
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

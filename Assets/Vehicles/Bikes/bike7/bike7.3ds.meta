@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 4fe8bf9b2028b9d4c93241457e6b9f1b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chassis
+    100004: forks_fron
+    100006: forks_rear
+    100008: handlebars
+    100010: mudguard
+    100012: wheel_fron
+    100014: wheel_rear
+    100016: bike7
+    100018: bk_bl_left
+    100020: bk_bl_righ
+    100022: fr_bl_left
+    100024: fr_bl_righ
+    100026: Front_ligh
+    100028: hight_beam
+    100030: Leds
+    100032: low_beam
+    100034: Numar_fata
+    100036: pozitii
+    100038: rear_brake
+    100040: reverse_li
+    100042: windscreen
+    100044: motor
+    400000: //RootNode
+    400002: chassis
+    400004: forks_fron
+    400006: forks_rear
+    400008: handlebars
+    400010: mudguard
+    400012: wheel_fron
+    400014: wheel_rear
+    400016: bike7
+    400018: bk_bl_left
+    400020: bk_bl_righ
+    400022: fr_bl_left
+    400024: fr_bl_righ
+    400026: Front_ligh
+    400028: hight_beam
+    400030: Leds
+    400032: low_beam
+    400034: Numar_fata
+    400036: pozitii
+    400038: rear_brake
+    400040: reverse_li
+    400042: windscreen
+    400044: motor
+    2300000: chassis
+    2300002: forks_fron
+    2300004: forks_rear
+    2300006: handlebars
+    2300008: mudguard
+    2300010: wheel_fron
+    2300012: wheel_rear
+    2300014: bk_bl_left
+    2300016: bk_bl_righ
+    2300018: fr_bl_left
+    2300020: fr_bl_righ
+    2300022: Front_ligh
+    2300024: hight_beam
+    2300026: Leds
+    2300028: low_beam
+    2300030: Numar_fata
+    2300032: pozitii
+    2300034: rear_brake
+    2300036: reverse_li
+    2300038: windscreen
+    2300040: motor
+    3300000: chassis
+    3300002: forks_fron
+    3300004: forks_rear
+    3300006: handlebars
+    3300008: mudguard
+    3300010: wheel_fron
+    3300012: wheel_rear
+    3300014: bk_bl_left
+    3300016: bk_bl_righ
+    3300018: fr_bl_left
+    3300020: fr_bl_righ
+    3300022: Front_ligh
+    3300024: hight_beam
+    3300026: Leds
+    3300028: low_beam
+    3300030: Numar_fata
+    3300032: pozitii
+    3300034: rear_brake
+    3300036: reverse_li
+    3300038: windscreen
+    3300040: motor
+    4300000: forks_rear
+    4300002: wheel_rear
+    4300004: forks_fron
+    4300006: mudguard
+    4300008: wheel_fron
+    4300010: handlebars
+    4300012: chassis
+    4300014: Leds
+    4300016: Front_ligh
+    4300018: low_beam
+    4300020: hight_beam
+    4300022: fr_bl_righ
+    4300024: fr_bl_left
+    4300026: pozitii
+    4300028: reverse_li
+    4300030: bk_bl_left
+    4300032: bk_bl_righ
+    4300034: rear_brake
+    4300036: Numar_fata
+    4300038: windscreen
+    4300040: motor
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0e339230 [env_2
+    second: {fileID: 2100000, guid: a1099a5e48d25994684a35fcd8d70c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0f5f55d0 [env_2
+    second: {fileID: 2100000, guid: eea43ac059b4c0b4380a7c57f016e380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 650339fe [env_2
+    second: {fileID: 2100000, guid: f10a4b1024b238142b8a2cb04f0279f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 728f8e61 [env_2
+    second: {fileID: 2100000, guid: 6a00cf72f17aa3b47ad31946e68d6d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8ab53778 [env_2
+    second: {fileID: 2100000, guid: ff7bfe9137eaf9644aa396c93103f97e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #82'
+    second: {fileID: 2100000, guid: 1423541b57d99054fbf4a1d50a7efb7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #83'
+    second: {fileID: 2100000, guid: cc8607de64f6df044ab03fc0e86a9eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a09b9a0e
+    second: {fileID: 2100000, guid: 14ccc5766de30fb48a63945193663485, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
